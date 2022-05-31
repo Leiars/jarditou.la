@@ -1,0 +1,58 @@
+.logo{
+    width : 200px; 
+}
+
+.entetelogo{
+    /* display: flex;
+    justify-content: space-between;
+    margin-right: 400px; */
+    display: flex;
+    justify-content: space-between;
+    margin-right: 200px;
+}
+
+.promotion {
+    width: 100%;
+}
+
+ul{
+    width: 2000;
+    height: 50px;
+    padding: 10px 20px 10px 20px;
+    border: 1px solid black;
+    margin: 20px 0 20px 0;
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+
+a {
+    color: white;
+}
+
+
+li {
+    margin: 2px;
+}
+
+p {
+    line-height: 2em;     
+}
+.devis {
+    line-height: 1em;
+}
+
+.section{
+display: flex;
+}
+.colonnedroite {
+    /* display: flex;
+    justify-content: flex-end;
+    align-items: flex-end; */
+    width: 30%;
+    background-color:lightgrey;
+    border: 5px; 
+}
+
+
+
