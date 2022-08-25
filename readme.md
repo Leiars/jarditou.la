@@ -8,7 +8,7 @@ ___
 
 
 ---
-## Exercices SQL
+## Exercices SQL <img align="right" src="src/img/SQL.png" alt="homepage" title="Struured Query Language" widht="auto" height="64px">
 ___
 [Papyrus](https://github.com/Leiars/papyrus) ······> Base de données  
 [Eval.SQL](https://github.com/Leiars/eval_sql) ······> Eval SQL  
