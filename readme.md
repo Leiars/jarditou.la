@@ -14,6 +14,6 @@ ___
 [Eval.SQL](https://github.com/Leiars/eval_sql) ······> Eval SQL  
 
 ---
-## Exercices PHP
+## Exercices PHP <img align="right" src="src/img/php_anim.jpg" alt="PHP" title="PHP" widht="auto" height="64px">
 ___
-[PHP](https://github.com/Leiars/php) ······> Exercices PHP  
+[PHP](https://github.com/Leiars/php) ······> Exercices PHP
