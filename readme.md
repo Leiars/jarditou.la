@@ -1,5 +1,5 @@
 # Mes travaux
----
+___
 ## Projets Jarditou
 ___
 
@@ -10,13 +10,13 @@ ___
 
 ---
 ## Exercices SQL <img align="right" src="src/img/SQL.png" alt="homepage" title="Struured Query Language" widht="auto" height="64px">
-___
+---
 
 [Papyrus](https://github.com/Leiars/papyrus) ······> Base de données  
 [Eval.SQL](https://github.com/Leiars/eval_sql) ······> Eval SQL  
 
 ---
 ## Exercices PHP <img align="right" src="src/img/php_anim.jpg" alt="PHP" title="PHP" widht="auto" height="64px">
-___
+---
 
 [PHP](https://github.com/Leiars/php) ······> Exercices PHP
